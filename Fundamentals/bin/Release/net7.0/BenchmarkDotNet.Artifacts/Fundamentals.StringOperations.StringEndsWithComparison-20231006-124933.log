@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark StringEndsWithComparison.TestMain: DefaultJob
+//    * Benchmarked method `TestMain` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark StringEndsWithComparison.TestAlt: DefaultJob
+//    * Benchmarked method `TestAlt` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
