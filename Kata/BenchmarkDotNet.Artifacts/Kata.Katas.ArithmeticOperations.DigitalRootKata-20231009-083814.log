@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark DigitalRootKata.DigitalRootCaller: DefaultJob
+//    * Benchmarked method `DigitalRootCaller` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
+// Benchmark DigitalRootKata.DigitalRootAltCaller: DefaultJob
+//    * Benchmarked method `DigitalRootAltCaller` is static. Benchmarks MUST be instance methods, static methods are not supported.
+
