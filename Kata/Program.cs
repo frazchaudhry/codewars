@@ -1,5 +1,5 @@
 ﻿using BenchmarkDotNet.Running;
-using Kata.Katas.ArithmeticOperations;
+using Kata._6Kyu;
 
 namespace Kata
 {

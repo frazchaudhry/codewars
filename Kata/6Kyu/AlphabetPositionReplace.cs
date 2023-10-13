@@ -1,6 +1,4 @@
-using System.Linq;
-
-namespace Kata.Katas.StringOperations
+namespace Kata._6Kyu
 {
     public static class AlphabetPositionReplace
     {

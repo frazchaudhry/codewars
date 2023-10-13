@@ -1,7 +1,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace Kata.Katas.LeetCode;
+namespace Kata._6Kyu;
 
 public class TwoSumTests
 {

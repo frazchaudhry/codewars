@@ -1,4 +1,4 @@
-namespace Kata.Katas.StringOperations;
+namespace Kata._6Kyu;
 
 public class BreakCamelCase
 {

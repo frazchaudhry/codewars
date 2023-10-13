@@ -1,6 +1,7 @@
+using System;
 using BenchmarkDotNet.Attributes;
 
-namespace Fundamentals.StringOperations;
+namespace Kata._7Kyu;
 
 [MemoryDiagnoser]
 public class StringEndsWithComparison

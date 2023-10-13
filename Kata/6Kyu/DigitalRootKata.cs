@@ -1,8 +1,7 @@
 using System;
 using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Jobs;
 
-namespace Kata.Katas.ArithmeticOperations;
+namespace Kata._6Kyu;
 
 [MemoryDiagnoser]
 public class DigitalRootKata

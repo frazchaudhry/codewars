@@ -1,6 +1,6 @@
 using System;
 
-namespace Kata.Katas.ArithmeticOperations
+namespace Kata._7Kyu
 {
     public static class BinaryAddition
     {

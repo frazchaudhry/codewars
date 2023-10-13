@@ -1,4 +1,4 @@
-namespace Kata.Katas.LeetCode;
+namespace Kata._6Kyu;
 
 public static class TwoSumKata
 {

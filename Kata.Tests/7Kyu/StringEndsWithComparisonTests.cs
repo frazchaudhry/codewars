@@ -1,6 +1,7 @@
 using FluentAssertions;
+using Xunit;
 
-namespace Fundamentals.StringOperations;
+namespace Kata._7Kyu;
 
 public class StringEndsWithComparisonTests
 {

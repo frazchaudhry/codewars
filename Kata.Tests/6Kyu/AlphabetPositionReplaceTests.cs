@@ -1,8 +1,7 @@
 using FluentAssertions;
-using Kata.Katas.StringOperations;
 using Xunit;
 
-namespace Kata.Katas.StringOperation;
+namespace Kata._6Kyu;
 
 public class AlphabetPositionReplaceTests
 {

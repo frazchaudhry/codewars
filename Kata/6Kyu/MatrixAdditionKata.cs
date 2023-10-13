@@ -1,4 +1,4 @@
-namespace Kata.Katas.ArithmeticOperations;
+namespace Kata._6Kyu;
 
 public class MatrixAdditionKata
 {

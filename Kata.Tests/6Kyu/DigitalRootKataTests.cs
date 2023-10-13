@@ -1,8 +1,7 @@
 using FluentAssertions;
-using Kata.Katas.ArithmeticOperations;
 using Xunit;
 
-namespace Kata.Katas.ArithmeticOperation;
+namespace Kata._6Kyu;
 
 public class DigitalRootKataTests
 {
