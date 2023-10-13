@@ -7,7 +7,7 @@ namespace Kata
     {
         static void Main(string[] args)
         {
-            BenchmarkRunner.Run<DigitalRootKata>();
+            BenchmarkRunner.Run<ValidBrace>();
         }
     }
 }
