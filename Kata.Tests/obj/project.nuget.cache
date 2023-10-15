@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qkDBY8yodxozFMzBlTT8f2iBSyo99G/7aRlvJcvu8qAAozeLNGJkklN5iZoFNJmA++N1/i66+ilN8cULqNGXyQ==",
+  "dgSpecHash": "2tOBT8nCL7meX5hpfRkwBR3cru3C8VnuusjoYGoUTsAOZ0VL920lRACC2youdRc2zY32AinePxaBacj06cy93w==",
   "success": true,
   "projectFilePath": "/home/fraz/Programs/DevProjects/CodeWars/CSharp/CodeWars/Kata.Tests/Kata.Tests.csproj",
   "expectedPackageFiles": [
