@@ -1,10 +1,18 @@
 using FluentAssertions;
 using Xunit;
+using Xunit.Abstractions;
 
 namespace Kata._6Kyu;
 
 public class AlphabetPositionReplaceTests
 {
+    private readonly ITestOutputHelper _testOutputHelper;
+
+    public AlphabetPositionReplaceTests(ITestOutputHelper testOutputHelper)
+    {
+        _testOutputHelper = testOutputHelper;
+    }
+
     [Fact]
     public void AlphabetPosition_ShouldReturnProperResult()
     {
@@ -17,5 +25,7 @@ public class AlphabetPositionReplaceTests
 
         // Assert
         actual.Should().Be(expectedResult);
+        _testOutputHelper.WriteLine($"Actual: {actual}");
+        _testOutputHelper.WriteLine($"Expected: {expectedResult}");
     } 
 }

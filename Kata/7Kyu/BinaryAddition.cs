@@ -1,5 +1,3 @@
-using System;
-
 namespace Kata._7Kyu
 {
     public static class BinaryAddition
